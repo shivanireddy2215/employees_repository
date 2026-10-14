@@ -8,6 +8,11 @@ employees = [{
     "name": "kranti",
     "salary": 20000,
     "department": "HR"
+}, {
+    "id": 103,
+    "name": "krishna",
+    "salary": 45000,
+    "department": "Finance"
 }]
 for emp in employees:
     print(emp)
